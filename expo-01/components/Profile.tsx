@@ -5,7 +5,7 @@ export function Profile() {
   return (
     <View style={styles.container}>
       <Image
-        source={require('../assets/images/FotoPerfil.jpg')}
+        source={require('../assets/images/fotoperfil.png')}
         style={styles.foto}
         contentFit="cover"
         transition={200}

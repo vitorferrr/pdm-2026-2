@@ -2,7 +2,6 @@
   "expo": {
     "name": "expo-01",
     "slug": "expo-01",
-    "owner": "programacaoMobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -44,6 +43,19 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "9e03c7f8-8da5-438f-a87f-7aacf7eeeaaa"
+      }
+    },
+    "owner": "programacaomobile",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/9e03c7f8-8da5-438f-a87f-7aacf7eeeaaa"
     }
   }
 }
